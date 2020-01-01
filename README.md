@@ -1,6 +1,6 @@
 # Project HERMES
-# An Arduino-Based Discourse Helping Device for Deaft and Mute Learners
-Deaf and Mute Assistive Device
+## An Arduino-Based Discourse Helping Device for Deaf and Mute Learners
+### Deaf and Mute Assistive Device
 
                                .aggggga,,.
                             ,d888888888888888888888888888888888888888888888888888888P""""a,
