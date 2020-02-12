@@ -16,4 +16,6 @@ Created in 2019, HERMES is the first of its kind, which are interactive data pro
 
 After further developments, HERMES is now a user-friendly and also protected by patent.
 
-![HERMES](https://ibb.co/V27qDxP)
+![received_703497716808766](https://user-images.githubusercontent.com/59409051/74080584-5a54d600-4a80-11ea-9073-e688da1cc56e.jpeg)
+![IMG20191122213448](https://user-images.githubusercontent.com/59409051/74080599-8ff9bf00-4a80-11ea-862d-6885aa141259.jpg)
+
