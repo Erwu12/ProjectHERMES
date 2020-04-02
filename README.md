@@ -1,5 +1,5 @@
-# Project HERMES
-## An Arduino-Based Discourse Helping Device for Deaf and Mute Learners
+# HERMES
+## Arduino – Based Data Processing Gloves for Sign Language Systems
 ### Deaf and Mute Assistive Device
 
 ##### As Paul J. Meyer said, “Communication – the human connection – is the key to personal and career success.” However, some people are not able to speak out for themselves.
